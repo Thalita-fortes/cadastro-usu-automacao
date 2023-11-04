@@ -20,7 +20,8 @@ OBS: Certifique-se de que você possui o Robot Framework e a principal bibliotec
     pip install robotframework 
     pip install robotframework-seleniumlibrary 
 
-Certifique-se de ter o driver do navegador Chrome adequado instalado e configurado no seu sistema. Você pode baixar o ChromeDriver em https://sites.google.com/a/chromium.org/chromedriver/downloads. <br/>
+Certifique-se de ter o driver do navegador Chrome adequado instalado e configurado no seu sistema. <br/>
+    Você pode baixar o ChromeDriver em: https://sites.google.com/a/chromium.org/chromedriver/downloads.
 
 Executando o teste: <br/>
 
