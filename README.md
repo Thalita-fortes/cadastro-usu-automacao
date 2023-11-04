@@ -24,7 +24,7 @@ Certifique-se de ter o driver do navegador Chrome adequado instalado e configura
 
 Executando o teste: <br/>
 
-    robot cadastro_sem_email_teste.robot
+    robot phptravels_teste_gherkin_bdd.robot
     
 O Robot Framework executará o script de teste, abrirá o navegador, preencherá os campos, realizará a soma, clicará no botão "Submit" e verificará se a mensagem de obrigatoriedade do campo não preenchido é exibida corretamente. <br/>
 
@@ -33,13 +33,13 @@ OBS: Certifique-se de que o ChromeDriver está configurado corretamente, e a ver
 
 Site utilizado para automação: https://phptravels.com/demo/
 
-<img src="https://github.com/Thalita-fortes/cadastro-usu-automacao/assets/78827775/69f68248-b0c7-44b8-9154-ba61f00bdb01" width="650"><br/>
+<img src="https://github.com/Thalita-fortes/cadastro-usu-erro/assets/78827775/94701707-0cd0-4327-b0b8-a90ad83fdff6" width="650"><br/>
 
 Testes executados com sucesso + Visualizando o log 🤖:
 
-<img src="https://github.com/Thalita-fortes/cadastro-usu-automacao/assets/78827775/d8c320b0-89d7-43af-89aa-b5d25a80b3c0" width="650"><br/>
+<img src="https://github.com/Thalita-fortes/cadastro-usu-erro/assets/78827775/87e892f6-81c8-4b2c-8ea6-80423a7f849c" width="650"><br/>
 
- <img src="https://github.com/Thalita-fortes/cadastro-usu-automacao/assets/78827775/853c2ad2-054a-4f6c-9a25-c621765fbccc" width="650"><br/>
+ <img src="https://github.com/Thalita-fortes/cadastro-usu-erro/assets/78827775/1aa7f8e6-0663-40fe-b081-e1fa298a4042" width="650"><br/>
 
 Criado por Thalita Fortes <br/>
 LinkedIn: https://www.linkedin.com/in/thalita-fortes/ :blue_heart:
